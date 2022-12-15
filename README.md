@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# zoo_app_ai_animaldetect" 
 "# zoo_app_ai_animaldetect" 
+"# ai_zoo_app" 
