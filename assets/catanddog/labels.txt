@@ -1,0 +1,8 @@
+0 Panda
+1 Tiger
+2 Turtle
+3 Leopard
+4 Elephant
+5 Deer
+6 Horse
+7 Snake
